@@ -9,7 +9,7 @@
             android:layout_height="48dp"
             android:background="#33B5E5">
         <ImageView
-                android:id="@+id/icon_right"
+                android:id="@+id/right_view"
                 android:layout_width="36dp"
                 android:layout_height="36dp"
                 android:layout_centerVertical="true"
